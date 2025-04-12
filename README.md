@@ -1,2 +1,2 @@
 # ControlVision
-this is our Comuter Vision' Project / Amir Sghaier &amp; Anis Kchaou
+this is our Computer Vision' Project / Amir Sghaier &amp; Anis Kchaou
