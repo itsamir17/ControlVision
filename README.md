@@ -50,7 +50,7 @@ L'objectif est de développer une application utilisant une webcam pour permettr
 
 ---
 
-### 🚀 8. **Améliorations futures**
+# 7. Améliorations futures
 - Ajout de gestes supplémentaires (clic droit, scroll, drag & drop).
 - Interface utilisateur avec options de calibrage.
 - Entraînement personnalisé pour reconnaître les gestes d’un utilisateur spécifique.
