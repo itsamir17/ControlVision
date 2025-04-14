@@ -10,7 +10,7 @@ L'objectif est de développer une application utilisant une webcam pour permettr
 
 ---
 
-# 2. Objectifs
+# 2. Perspective
 - Rendre l'interaction homme-machine plus naturelle et sans contact.
 - Proposer une solution d'accessibilité pour les personnes ayant des difficultés motrices à utiliser une souris traditionnelle.
 - Expérimenter des technologies de vision par ordinateur et d'interaction gestuelle.
