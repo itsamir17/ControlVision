@@ -56,3 +56,7 @@ L'objectif est de développer une application utilisant une webcam pour permettr
 - Entraînement personnalisé pour reconnaître les gestes d’un utilisateur spécifique.
 
 
+
+Lien vers la présentation :
+https://app.presentations.ai/view/354izB
+
